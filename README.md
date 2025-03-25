@@ -17,7 +17,7 @@
 > 
 
 
-[**Chuck-Chuck**](https://github.com/The-Chuck-Chuck/The-Chuck)
+[**Chuck-Chuck**](https://github.com/miinje/The-Chuck)
 
 > 3인 팀 프로젝트(기획 1주, 핵심 기능 개발 3주)
 > 
